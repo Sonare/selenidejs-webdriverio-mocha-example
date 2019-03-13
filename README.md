@@ -1,0 +1,1 @@
+Web UI tests example using [SelenideJS](selenidejs.org) on top of [Webdriverio](https://webdriver.io).

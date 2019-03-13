@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "typescript": "^3.2.4",
+    "selenidejs": "^1.1.0",
+    "webdriverio": "^5.7.2",
+    "jasmine": "^3.3.1",
+    "@types/jasmine": "^3.3.7"
+  },
+  "scripts": {
+    "pretest": "rm -rf build && tsc",
+    "test": "jasmine ./build/**/*spec.js"
+  },
+  "author": {
+    "name": "Knowledge Expert SA",
+    "email": "ke@k-expert.com"
+  },
+  "license": "MIT"
+}
