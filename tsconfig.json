@@ -3,7 +3,7 @@
     "target": "es2017",
     "module": "commonjs",
     "outDir": "build",
-    "types": ["jasmine", "node", "webdriverio"],
+    "types": ["mocha", "node", "webdriverio"],
     "esModuleInterop": true
   },
   "exclude": ["node_modules"]
