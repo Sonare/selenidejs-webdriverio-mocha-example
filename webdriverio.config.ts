@@ -44,4 +44,4 @@ export const config = {
             .timeout(2000)
             .build();
     },
-}
+};
